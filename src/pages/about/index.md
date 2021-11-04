@@ -1,19 +1,54 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Hi, I'm Anna.
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+I'm a **creative technologist** with a background in photography, filmmaking and post production. I study Creative Technologies at Film University Babelsberg near Berlin, Germany. Prior to that, I graduated with a Bachelor of Engineering in Audiovisual Media at Stuttgart Media University, with a semester abroad at the Northern Film School in Leeds. Besides studying, I regularly work as a freelance set manager for ZDF Sport.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I am interested in various facets of creative technologies, including creative coding, mixed reality, volumetric video, tool development, interactive installations, and physical computing.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Aside from that, I work and experiment with analog and digital photography. Generally, I'm passionate about technology, design, and our environment.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Check out my projects to see what I previously worked on.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Feel free to contact me: [anna.eschenbacher@icloud.com](mailto:anna.eschenbacher@icloud.com)
+
+
+
+![](/img/profilpic.jpeg)
+
+
+
+### Education
+
+**since 2019** - Master - Creative Technologies, Filmuniversity Babelsberg Konrad Wolf, Potsdam, Germany
+
+**2014 - 2019** - Bachelor - Audiovisual Media B.Eng., Stuttgart Media University, Germany
+
+**2016** - Semester Abroad, Northern Film School, Leeds Beckett University, England
+
+### Exhibitions | Festivals
+
+**2021** - Remnants: Kind Acts of Cruelty, 50th Sehsüchte Festival, Potsdam, Germany
+
+**2021** - Remnants: Kind Acts of Cruelty, 48h Neukölln KINDL, Berlin, Germany
+
+**2018** - Free from Skips, 1st place audience award at Schweinfurter Kurzfilmtage, Schweinfurt, Germany
+
+**2018** - Free from Skips, Carrousel international du film de Rimouski, Québec, Canada
+
+**2018** - Free from Skips, FReDD festival selection 2018 "Section Panorama", Toulouse, France.
+
+**2016** - Timor, Selección Oficial Experimental Shortfilm, Allucinema Fest, Cancùn, Mexico
+
+### Publications
+
+Bachelor Thesis: Real-Time Cinematography in a Virtual Production Environment
+
+### Websites/Sketches
+
+Poster Generator
+
+Shaped by Motion
+
+X-Mas Card Lametta
